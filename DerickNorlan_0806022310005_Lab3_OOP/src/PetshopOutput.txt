@@ -1,0 +1,11 @@
+----------------------------------------------------------------------------------------
+| Pet Shop                                                                             |
++--------------------------------------------------------------------------------------+
+| No. | Nama       | Jenis                |   Ukuran | Jadwal Makan    | Status Makan  |
++--------------------------------------------------------------------------------------+
+| 1   | dono       | shiba                |    besar | 0 Kali Sehari   | Sudah Makan   |
+| 2   | tini       | bulldog              |    kecil | 0 Kali Sehari   | Belum Makan   |
+| 3   | tru        | corgy                |    besar | 0 Kali Sehari   | Sudah Makan   |
+| 4   | adkajdk    | bulldog              |    kecil | 0 Kali Sehari   | Sudah Makan   |
+| 5   | nadkna     | herder               |    kecil | 0 Kali Sehari   | Belum Makan   |
++--------------------------------------------------------------------------------------+%n
